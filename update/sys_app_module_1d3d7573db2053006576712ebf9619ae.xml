@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Police Incident Data">513d7573db2053006576712ebf9619ac</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Police Incident Data</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_117012_my_test_a_police_incident_data</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_117012_my_test_a.police_incident_data_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>jstephens</sys_created_by>
+        <sys_created_on>2018-03-06 19:40:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d3d7573db2053006576712ebf9619ae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Police Incident Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Test App" source="x_117012_my_test_a">f8992baddb5013006576712ebf96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test App">f8992baddb5013006576712ebf96198f</sys_scope>
+        <sys_update_name>sys_app_module_1d3d7573db2053006576712ebf9619ae</sys_update_name>
+        <sys_updated_by>jstephens</sys_updated_by>
+        <sys_updated_on>2018-03-06 19:47:45</sys_updated_on>
+        <timeline_page/>
+        <title>Police Incident Data</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

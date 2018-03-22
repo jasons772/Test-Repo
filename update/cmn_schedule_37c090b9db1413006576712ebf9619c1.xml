@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <description/>
+        <document/>
+        <document_key/>
+        <name>Jason Stephens Personal Schedule</name>
+        <parent/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>jstephens</sys_created_by>
+        <sys_created_on>2018-02-15 20:23:30</sys_created_on>
+        <sys_id>37c090b9db1413006576712ebf9619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jason Stephens Personal Schedule</sys_name>
+        <sys_package display_value="My Test App" source="x_117012_my_test_a">f8992baddb5013006576712ebf96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test App">f8992baddb5013006576712ebf96198f</sys_scope>
+        <sys_update_name>cmn_schedule_37c090b9db1413006576712ebf9619c1</sys_update_name>
+        <sys_updated_by>jstephens</sys_updated_by>
+        <sys_updated_on>2018-02-15 20:23:30</sys_updated_on>
+        <time_zone>US/Eastern</time_zone>
+        <type/>
+    </cmn_schedule>
+</record_update>

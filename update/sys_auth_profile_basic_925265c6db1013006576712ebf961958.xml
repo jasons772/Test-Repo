@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>Meraki</name>
+        <password>dGYe548Od+HtqelV17Ow1g==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>jstephens</sys_created_by>
+        <sys_created_on>2018-02-16 20:58:28</sys_created_on>
+        <sys_id>925265c6db1013006576712ebf961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meraki</sys_name>
+        <sys_package display_value="My Test App" source="x_117012_my_test_a">f8992baddb5013006576712ebf96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test App">f8992baddb5013006576712ebf96198f</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_925265c6db1013006576712ebf961958</sys_update_name>
+        <sys_updated_by>jstephens</sys_updated_by>
+        <sys_updated_on>2018-02-16 20:58:28</sys_updated_on>
+        <username>devnetmeraki@cisco.com</username>
+    </sys_auth_profile_basic>
+</record_update>

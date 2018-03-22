@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Police Incident Data" max_length="40" name="x_117012_my_test_a_police_incident_data" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Case Number" max_length="40" name="case_number" type="string"/>
+        <element label="Case Status" max_length="40" name="case_status" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Incident Date" max_length="40" name="incident_date" type="string"/>
+        <element label="Incident Type" max_length="40" name="incident_type" type="string"/>
+        <element label="Latitude" max_length="40" name="latitude" type="string"/>
+        <element label="Longitude" max_length="40" name="longitude" type="string"/>
+        <element label="Zip" max_length="40" name="zip" type="string"/>
+    </element>
+</database>
