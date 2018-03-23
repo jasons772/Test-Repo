@@ -9,6 +9,7 @@
         <element label="Incident Type" max_length="40" name="incident_type" type="string"/>
         <element label="Latitude" max_length="40" name="latitude" type="string"/>
         <element label="Longitude" max_length="40" name="longitude" type="string"/>
+        <element label="Test Field" max_length="40" name="test_field" type="string"/>
         <element label="Zip" max_length="40" name="zip" type="string"/>
     </element>
 </database>

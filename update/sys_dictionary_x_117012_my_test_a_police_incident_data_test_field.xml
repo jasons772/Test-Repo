@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="latitude" table="x_117012_my_test_a_police_incident_data">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="test_field" table="x_117012_my_test_a_police_incident_data">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Latitude</column_label>
+        <column_label>Test Field</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>latitude</element>
+        <element>test_field</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jstephens</sys_created_by>
-        <sys_created_on>2018-03-06 19:46:57</sys_created_on>
-        <sys_id>b33a1815db0113006576712ebf9619a5</sys_id>
+        <sys_created_on>2018-03-23 14:37:50</sys_created_on>
+        <sys_id>b3ba1055db0113006576712ebf961966</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Latitude</sys_name>
+        <sys_name>Test Field</sys_name>
         <sys_package display_value="My Test App" source="x_117012_my_test_a">f8992baddb5013006576712ebf96198f</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Test App">f8992baddb5013006576712ebf96198f</sys_scope>
-        <sys_update_name>sys_dictionary_x_117012_my_test_a_police_incident_data_latitude</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-03-23 14:34:54</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_117012_my_test_a_police_incident_data_test_field</sys_update_name>
+        <sys_updated_by>jstephens</sys_updated_by>
+        <sys_updated_on>2018-03-23 14:37:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
